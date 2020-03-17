@@ -1,3 +1,4 @@
+![Maven Package](https://github.com/jacjos/quark-virtual-server/workflows/Maven%20Package/badge.svg)
 # quark-virtual-server project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
